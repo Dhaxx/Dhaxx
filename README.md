@@ -1,7 +1,7 @@
-### Hello World! I'am Kaio Pablo
+### Hello Everyone! I'am Kaio Pablo
 ##
-- 🔭 I’m currently working as Helpdesk
-- 🌱 I’m currently learning about Python and Django Framework
+- 🔭 I’m currently working as Helpdesk and perform Data Migration
+- 🌱 I’m currently learning about Data Engineering
 - 📫 How to reach me:
 -   🔗 https://www.linkedin.com/in/kaio-martins-6319741b0/
 -   🔗 kaiopablo44@gmail.com

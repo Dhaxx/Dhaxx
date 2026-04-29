@@ -1,31 +1,54 @@
-### Hello Everyone! I'am Kaio Pablo
-##
-- 🔭 I’m currently working as Helpdesk and perform Data Migration
-- 🌱 I’m currently learning about Data Engineering
-- 📫 How to reach me:
--   🔗 https://www.linkedin.com/in/kaio-martins-6319741b0/
--   🔗 kaiopablo44@gmail.com
+# 👋 Hello, I'm Kaio Pablo
 
-<div>
+💻 Backend Developer  
+📊 Data Engineering Enthusiast  
+
+---
+
+## 🚀 About Me
+- 🔭 Currently working with **Helpdesk & Data Migration**
+- 💡 Transitioning to **Backend Development**
+- 🌱 Learning **system design, APIs, and scalable architectures**
+- 🧠 Background in **databases and data processing (ETL)**
+- 🎯 Focused on becoming a **well-rounded software developer**
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img height="30" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
   <a href="https://beacons.ai/Dhaxx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhaxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaxx&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhaxx&show_icons=true&bg_color=00000000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaxx&layout=compact&langs_count=8&bg_color=00000000"/>
+  </a>
 </div>
 
-<div style="display: flex;">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+---
 
+## 📫 Contact
+- 🔗 LinkedIn: https://www.linkedin.com/in/kaio-martins-6319741b0/
+- 📧 Email: kaiopablo44@gmail.com
 
-##
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/kaio-martins-6319741b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kaiopablo44@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaio-martins-6319741b0/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:kaiopablo44@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
